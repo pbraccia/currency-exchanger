@@ -37,5 +37,7 @@ public class CurrencyConverter {
             }
         }
         System.out.println("Exiting the program");
+        
+        //Hello
     }
 }
